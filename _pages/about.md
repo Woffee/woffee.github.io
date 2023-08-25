@@ -6,7 +6,7 @@ subtitle: <a href='#'>PhD Candidate</a>
 
 profile:
   align: right
-  image: avatar.png
+  image: avatar.jpeg
   image_circular: true # crops the image to make it circular
   address: >
     <p>Newark, NJ, USA</p>
