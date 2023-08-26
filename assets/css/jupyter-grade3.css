@@ -1604,28 +1604,7 @@ div.output.output_scroll {
     box-shadow: none;
 }
 
-::-webkit-scrollbar {
-    width: 11px;
-    max-height: 9px;
-    background-color: #ebebeb;
-    border-radius: 3px;
-    border: none;
-}
 
-::-webkit-scrollbar-track {
-    background: #ebebeb;
-    border: none;
-    width: 11px;
-    max-height: 9px;
-}
-
-::-webkit-scrollbar-thumb {
-    border-radius: 2px;
-    border: none;
-    background: #909090;
-    background-clip: content-box;
-    width: 11px;
-}
 
 HTML,
 body,
