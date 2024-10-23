@@ -3,7 +3,7 @@ layout: page
 permalink: /fav-books/
 title: Fav-Books
 description: My favourite books (most in Chinese).
-nav: true
+nav: false
 nav_order: 5
 ---
 

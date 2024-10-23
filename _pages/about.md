@@ -6,7 +6,7 @@ subtitle: <a href='#'>PhD Candidate</a>
 
 profile:
   align: right
-  image: avatar.jpeg
+  image: avatar2.jpeg
   image_circular: true # crops the image to make it circular
   address: >
     <p>Newark, NJ, USA</p>
@@ -17,6 +17,6 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-A Ph.D. candidate in the Department of Informatics, College of Computing, New Jersey Institute of Technology. His research interests include Machine Learning, Deep Learning, Software Security, Natural Language Processing, etc.
+A Ph.D. candidate in the Department of Informatics, College of Computing, New Jersey Institute of Technology. His research interests include Machine Learning, Deep Learning, Software Security, Natural Language Processing, Large Language Models, etc.
 
-
+[LinkedIn](https://www.linkedin.com/in/wenbo-wang-3461211a7/)
