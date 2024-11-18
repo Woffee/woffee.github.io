@@ -19,4 +19,4 @@ social: false  # includes social icons at the bottom of the page
 
 A Ph.D. candidate in the Department of Informatics, College of Computing, New Jersey Institute of Technology. His research interests include Machine Learning, Deep Learning, Software Security, Natural Language Processing, Large Language Models, etc.
 
-[LinkedIn](https://www.linkedin.com/in/wenbo-wang-3461211a7/)
+[<i class="fab fa-linkedin"></i> LinkedIn](https://www.linkedin.com/in/wenbo-wang-3461211a7/), [📖 Google Scholar](https://scholar.google.com/citations?user=sGzfUyAAAAAJ&hl=en&oi=ao)
