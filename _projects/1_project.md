@@ -1,11 +1,12 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
-img: assets/img/12.jpg
+title: Envismetrics
+description: A comprehensive toolbox for the interpretation of results across various electrochemical techniques.
+img: assets/img/projects/envismetrics16x9.png
 importance: 1
 category: work
-related_publications: einstein1956investigations, einstein1950meaning
+redirect: https://github.com/Woffee/Envismetrics
+# related_publications: einstein1956investigations, einstein1950meaning
 ---
 
 Every project has a beautiful feature showcase page.

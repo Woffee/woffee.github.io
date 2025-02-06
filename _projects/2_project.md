@@ -1,8 +1,8 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
-img: assets/img/3.jpg
+title: OKN
+description: An Open Knowledge Network by integrating participatory and automated ontology development
+img: assets/img/projects/okn16x9.png
 importance: 2
 category: work
 giscus_comments: true
