@@ -10,3 +10,5 @@ _site
 .ruby-version
 Gemfile.lock
 vendor
+_pages/*.py
+_pages/*.html
