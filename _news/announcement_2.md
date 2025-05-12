@@ -6,7 +6,7 @@ inline: true
 related_posts: false
 ---
 
-Recognition of Excellence in Service, CAST-GNY Annual Conference.
+Recognition of Excellence in Service, CAST-GNY Annual Conference
 
 
 

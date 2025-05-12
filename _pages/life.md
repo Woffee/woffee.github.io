@@ -12,6 +12,24 @@ nav_order: 5
 <div class="row mt-3">
 
     <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/life/20250510_Kean.jpeg" class="img-fluid rounded z-depth-1" %}
+        <div class="caption">
+            Kean University, 2025.
+        </div>
+    </div>
+
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/life/20250416_NJIT.jpeg" class="img-fluid rounded z-depth-1" %}
+        <div class="caption">
+            PHD Defense at NJIT, 2025.
+        </div>
+    </div>
+
+    <!-- TODO: 等待凑满三张 -->
+</div>
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/life/20250201_Ski_at_Mountain_Creek.jpeg" class="img-fluid rounded z-depth-1" %}
         <div class="caption">
             Ski At Mountain Creek, 2025.
