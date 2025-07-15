@@ -9,7 +9,7 @@ profile:
   image: avatar2.jpeg
   image_circular: true # crops the image to make it circular
   address: >
-    <p>Newark, NJ, USA</p>
+    <p>Clinton, NY, USA</p>
 
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
