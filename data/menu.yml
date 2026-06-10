@@ -1,0 +1,11 @@
+main:
+  - item: Home
+    url: /
+  - item: About
+    url: /about/
+  - item: Life
+    url: /life/
+  - item: Projects
+    url: /projects/
+  - item: Teaching
+    url: /teaching/

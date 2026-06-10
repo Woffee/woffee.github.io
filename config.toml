@@ -1,0 +1,33 @@
+baseURL = 'http://localhost:1313'
+title = "Wenbo's site"
+theme = "newsroom"
+
+enableRobotsTXT = true
+canonifyURLs = true
+defaultContentLanguage = 'en'
+defaultContentLanguageInSubdir = false
+
+[markup]
+  [markup.highlight]
+    codeFences = true
+    noClasses = false
+
+[markup.goldmark.extensions]
+  [markup.goldmark.extensions.passthrough]
+    enable = true
+    [markup.goldmark.extensions.passthrough.delimiters]
+      block = [['\[', '\]'], ['$$', '$$'], ['\begin{equation}', '\end{equation}'], ['\begin{align}', '\end{align}']]
+      inline = [['\(', '\)'], ['$', '$']]
+
+[params]
+  title = "Wenbo's site"
+  description = "Wenbo's site"
+  copyright = 'Copyright 2026 © Wenbo'
+
+  [params.author]
+    name = 'Wenbo Wang'
+    email = 'wwang@hamilton.edu'
+
+[author]
+name = "weru"
+homepage = "https://github.com/onweru"

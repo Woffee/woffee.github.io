@@ -1,0 +1,21 @@
+// put your custom styles here.
+// It's better to override this file from projectDirectory/assets/sass/custom 
+
+// Remove the semi-transparent overlay on article thumbnail hover
+.article_thumb::after
+  background: transparent !important
+  opacity: 0 !important
+
+.article:hover .article_thumb::after
+  opacity: 0 !important
+
+// Disable hover shadow/zoom effect on article cards
+.article:hover
+  box-shadow: 0 0.5rem 2rem rgba(0,0,0,0.12) !important
+
+.article:hover .article_thumb img
+  transform: none !important
+
+// Force grid-3 to display three columns instead of responsive 2-column collapse
+.grid-3
+  grid-template-columns: repeat(3, minmax(0, 1fr)) !important

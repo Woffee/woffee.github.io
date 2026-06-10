@@ -1,0 +1,12 @@
+[submodule "themes/hugo-brewm"]
+	path = themes/hugo-brewm
+	url = https://github.com/foxihd/hugo-brewm
+[submodule "themes/newsroom"]
+	path = themes/newsroom
+	url = https://github.com/onweru/newsroom.git
+[submodule "themes/black-and-light"]
+	path = themes/black-and-light
+	url = https://github.com/davidhampgonsalves/hugo-black-and-light-theme.git
+[submodule "themes/not-much"]
+	path = themes/not-much
+	url = https://github.com/imgios/not-much.git
